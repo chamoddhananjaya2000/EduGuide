@@ -1,0 +1,6 @@
+{
+    "classifier__C": 50,
+    "classifier__class_weight": null,
+    "classifier__penalty": "l2",
+    "classifier__solver": "lbfgs"
+}

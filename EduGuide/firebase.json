@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "providers": {
+      "googleSignIn": {
+        "oAuthBrandDisplayName": "EduGuide AI",
+        "supportEmail": "student@eduguide.ai"
+      }
+    }
+  }
+}
